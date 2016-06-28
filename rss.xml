@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[AllySlowayMedia]]></title>
+        <description><![CDATA[AllySlowayMedia]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 28 Jun 2016 00:05:02 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Test]]></title>
+            <description><![CDATA[<article><h1>Test</h1><p>This is a test. Journalism and Media arts website</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7190ab43-afaa-4867-b1bd-161efefdd727.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/7190ab43-afaa-4867-b1bd-161efefdd727.jpg</link>
+            <guid isPermaLink="false">442fbbeb-23b2-47e6-a24d-eefe4175209d</guid>
+            <pubDate>Tue, 28 Jun 2016 00:04:57 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
